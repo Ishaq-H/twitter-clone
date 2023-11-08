@@ -1,7 +1,5 @@
-import PostFeed from "@/components/Postfeed";
 import Sidebar from "@/components/Sidebar";
 import Trending from "@/components/Trending";
-import Tweet from "@/components/Tweet";
 import { db } from "@/firebase";
 import { ArrowLeftIcon } from "@heroicons/react/outline";
 import { doc, getDoc } from "firebase/firestore";
